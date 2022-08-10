@@ -1,7 +1,7 @@
-<h1 align="center">Olá, eu sou o Danilo Alves Trovao!</h1>
-<h2 align="center">Sou estudante de ciência da computação.</h2>
+<h1 align="center">Hi, i'm Danilo Alves Trovao!</h1>
+<h2 align="center">Computer science student.</h2>
 
-- 🌱 Atualmente aprendendo javascript, html e css
+- 🌱 currently learning JavaScript, HTML/CSS.
 
 <div align="left">
   <a href="https://github.com/DaniloAlvesTr">
