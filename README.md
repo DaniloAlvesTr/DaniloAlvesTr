@@ -1,7 +1,7 @@
 <h1 align="center">Hi, i'm Danilo Alves Trovao!</h1>
 <h2 align="center">Computer science student.</h2>
 
-- 🌱 currently learning JavaScript, HTML/CSS.
+- 🌱 currently learning Java.
 
 <div align="left">
   <a href="https://github.com/DaniloAlvesTr">
